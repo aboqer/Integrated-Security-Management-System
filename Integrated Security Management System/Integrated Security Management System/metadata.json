@@ -1,0 +1,6 @@
+{
+  "name": "نظام الإدارة الأمنية المتكامل",
+  "description": "نظام إداري أمني متكامل لإدارة الموقوفين، المخالفات، الأمانات، والبلاغات مع لوحة تحكم ذكية وصلاحيات وصول متقدمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["ADMIN_DASHBOARD", "RTL_SUPPORT", "SECURITY_MANAGEMENT"]
+}
